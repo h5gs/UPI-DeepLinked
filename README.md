@@ -13,3 +13,5 @@ Demo Application: https://play.google.com/store/apps/details?id=com.malav.deepli
 
 If you dont know the UPI address, any account default upi address is as follow: 
 "AccountNumber@IFSCcode.ifsc.npci"
+
+https://www.mygov.in/digidhan/pages/pdf/sbi/NPCI%20Unified%20Payment%20Interface.pdf
